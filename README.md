@@ -1,7 +1,11 @@
 <!-- Animated header: place a file at assets/header.gif (recommended) -->
-<p align="center">
-  <img src="assets/header.gif" alt="Welcome banner" width="100%" style="max-width:1100px; border-radius:10px;" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7400FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&width=600&lines=Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;Power+BI+%7C+Python+%7C+SQL+%7C+Tableau;Transforming+Data+Into+Insights;Always+Learning+%26+Exploring+New+Tech!"/>
+</div>
 
 <h1 align="center">Hey 👋 What's Up? I'm <strong>Pranay Dhore</strong></h1>
 <div align="center"><em>Data Scientist • Web Developer • Cloud & DevOps Enthusiast</em></div>
