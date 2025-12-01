@@ -4,28 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF8C00&height=200&section=header&text=Welcome%20Data%20Explorer!&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF"/>
 </div>
 
-<!-- Main animated typing line (Black theme + Orange highlight + White glow) -->
+<!-- Main animated typing line (Orange highlight + White glow) --> 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Prompt+Engineer;Python+%7C+SQL+%7C+Excel+Expert;Transforming+Data+Into+Business+Insights;Delivering+Clear%2C+Impactful+Analytics;Passionate+About+Visualization+%26+AI" />
 </div>
 
-<!-- Reflected line (soft white–orange hue + blur for reflection effect) -->
+<!-- Reflected line (BLACK text + soft blur) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=400&size=22&pause=1500&color=FFE6C9&center=true&vCenter=true&width=800&duration=3500&lines=Data+Analytics+Enthusiast;Enhancing+Dashboards+with+Power+BI;Creating+Meaningful+Business+Insights;Committed+to+Continuous+Growth" style="opacity:0.50;filter:blur(0.6px);" />
-</div>
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7400FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&width=600&lines=Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;Power+BI+%7C+Python+%7C+SQL+%7C+Tableau;Transforming+Data+Into+Insights;Always+Learning+%26+Exploring+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&pause=1500&color=000000&center=true&vCenter=true&width=800&duration=3500&lines=Data+Analytics+Enthusiast;Enhancing+Dashboards+with+Power+BI;Creating+Meaningful+Business+Insights;Committed+to+Continuous+Growth" style="opacity:0.55;filter:blur(0.6px);" />
 </div>
 
 <h1 align="center">Hey 👋 What's Up? I'm <strong>Pranay Dhore</strong></h1>
