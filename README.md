@@ -1,73 +1,76 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<!-- Animated header: upload assets/header.gif to your repo -->
+<p align="center">
+  <img src="assets/header.gif" alt="Welcome banner" width="100%" style="max-width:1100px; border-radius:8px;" />
+</p>
 
-###
+<h1 align="center">Hey 👋 What's Up? I'm <b>Pranay Dhore</b></h1>
 
 <div align="center">
-  <!-- Tech icons (adjust or remove icons you don't use) -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,java,bootstrap,tailwind,mongodb,express" height="60" alt="tech stack"  />
+  <em>Data Scientist • Web Developer • Cloud & DevOps Enthusiast</em>
 </div>
 
-###
+---
 
 <div align="center">
-  <!-- Social / contact badges (replace URLs with yours) -->
+  <!-- Compact tech icons -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,java,bootstrap,tailwind,mongodb,express" height="48" alt="stack icons"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi,pandas,numpy,matplotlib,seaborn,plotly,scikitlearn" height="48" alt="data icons"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git" height="48" alt="tools icons"/>
+</div>
+
+---
+
+<div align="center">
+  <!-- Social / contact badges (replace links) -->
   <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="28" alt="linkedin" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&style=for-the-badge" height="28" alt="twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
+  <a href="https://your-portfolio.example.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A0A0A&style=for-the-badge" height="28" alt="portfolio" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=BB001B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=BB001B&style=for-the-badge" height="28" alt="email" />
   </a>
 </div>
 
-###
+---
 
 ## 📌 About Me
-- 🎓 *Computer Science Engineering* (Data Science Specialization)  
-- 📊 Passion for *Data Science, **AI, **Web Development* & *Ethical Hacking*  
-- 🏆 Always *Learning & Innovating*  
-- 🎯 Preparing for *RapidMiner Certification* (Data Engineering – Master)  
-- 💼 Completed internships in *AI, **Python, **C++, and **Power BI*  
+- 🎓 *Computer Science Engineering* — Data Science specialization  
+- 📊 Passionate about *Data Science, **AI, **Web Development, and **Ethical Hacking*  
+- 🏆 Internships in *AI, **Python, **C++, and **Power BI*  
+- 🎯 Preparing for *RapidMiner (Data Engineering – Master)*  
 - 🏏 Cricket enthusiast & competitive player  
-- 🌍 *Portfolio:* https://your-portfolio.example.com  
 - 🔥 Exploring *Cloud Computing & DevOps*
 
 ---
 
 ## 🔧 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,java,bootstrap,tailwind,mongodb,express,powerbi,pandas,numpy,matplotlib,seaborn,plotly,tableau,scikitlearn,docker,aws,git" height="40" alt="stack icons" />
-</div>
-
-*Languages & Frameworks:* C, C++, Python, JavaScript, React, Java, Bootstrap, Tailwind CSS, Express.js, MongoDB  
-*Data & ML:* Power BI, pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, scikit-learn  
-*Tools & Platforms:* GitHub, Docker, AWS, VS Code, Jupyter, PyCharm, IntelliJ IDEA
+*Languages & Frameworks:* C · C++ · Python · JavaScript · React · Java · Bootstrap · Tailwind CSS · Express.js · MongoDB  
+*Data & ML:* Power BI · pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · scikit-learn  
+*Tools:* GitHub · Docker · AWS · VS Code · Jupyter · PyCharm · IntelliJ IDEA
 
 ---
 
-## 🚀 Projects & Contributions
-
-- 🔹 *Potato Leaf Disease Detection* — Image-classification pipeline using CNNs (OpenCV / TensorFlow).  
-  Repo: https://github.com/pranaydhore/potato-leaf-disease (replace with your repo link)
-- 🔹 *Megastore Data Analysis (Power BI)* — Interactive dashboards for sales & inventory insights.  
+## 🚀 Featured Projects
+- 🔹 *Potato Leaf Disease Detection* — Image-classification pipeline (CNN).  
+  Repo: https://github.com/pranaydhore/potato-leaf-disease (replace with your link)
+- 🔹 *Megastore Data Analysis (Power BI)* — Interactive dashboards & insights.  
   Repo: https://github.com/pranaydhore/megastore-powerbi (replace)
-- 🔹 *Retail Sales Analysis* — Forecasting & customer segmentation using time-series and clustering.  
+- 🔹 *Retail Sales Analysis* — Forecasting & customer segmentation.  
   Repo: https://github.com/pranaydhore/retail-sales-analysis (replace)
 
-(Add more projects or change descriptions/links as needed.)
+> Add more repos above or change descriptions to match your actual projects.
 
 ---
 
-## 📈 GitHub Stats & Contribution Trophies
-
+## 📈 GitHub Stats & Activity
 <div align="center">
-  <!-- GitHub dynamic stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=pranaydhore&show_icons=true&theme=dark&count_private=true" alt="github stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaydhore&layout=compact&theme=dark" alt="top languages" />
@@ -77,58 +80,80 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pranaydhore&theme=darkhub&row=1&column=4" alt="trophies" />
 </div>
 
-###
-
 <div align="center">
-  <!-- Contribution streak / activity — update user= to your username -->
-  <img src="https://streak-stats.demolab.com?user=pranaydhore&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=pranaydhore&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph.svg">
-</picture>
-
-> If you don't have a pacman contribution graph generated, you can remove the <picture> block or replace with the default GitHub contribution grid (it renders automatically on your profile page).
 
 ---
 
 ## ✨ Visitor Count
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaydhore&color=brightgreen" alt="visitor-count" />
   &nbsp;
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pranaydhore.pranaydhore)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranaydhore.pranaydhore" alt="visitor-badge" />
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 🛠 How to add the *animated header* (GIF / APNG) — quick steps
+
+1. *Create or convert an animated GIF*  
+   - If you already have a short MP4/video: convert to GIF using ffmpeg:
+     bash
+     ffmpeg -i input.mp4 -vf "fps=15,scale=1200:-1:flags=lanczos" -loop 0 assets/header.gif
+     
+   - If you have a sequence of PNGs: create GIF with ImageMagick:
+     bash
+     convert -delay 6 -loop 0 frame-*.png -layers Optimize assets/header.gif
+     
+   - For smaller size, use gifsicle to optimize:
+     bash
+     gifsicle -O3 assets/header.gif -o assets/header.gif
+     
+   - Recommended: keep width ≤ 1200px and file size < 2–3 MB for faster load.
+
+2. **Add assets/header.gif to your repo**  
+   - Web UI: Repo → Add file → Upload files → drag assets/header.gif.  
+   - Git CLI:
+     bash
+     mkdir -p assets
+     cp /path/to/header.gif assets/header.gif
+     git add assets/header.gif README.md
+     git commit -m "Add animated header"
+     git push
+     
+
+3. *Preview* on your GitHub profile page https://github.com/pranaydhore — GIFs render inline.
+
+> NOTE: Animated SVGs and inline JS are restricted by GitHub for security. GIF / APNG is the most reliable animated header.
+
+---
+
+## 🧾 Footer (Contact + License)
 
 <div align="center">
-  <a href="https://github.com/pranaydhore" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
-  <a href="https://your-portfolio.example.com" target="_blank">Portfolio</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <p>
+    <a href="https://github.com/pranaydhore" target="_blank">GitHub</a> •
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> •
+    <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
+    <a href="https://your-portfolio.example.com" target="_blank">Portfolio</a> •
+    <a href="mailto:your-email@example.com">Email</a>
+  </p>
+
+  <p>
+    <small>Made with ❤ • © Pranay Dhore • <a href="LICENSE">MIT License</a></small>
+  </p>
 </div>
 
 ---
 
-## 🛠 How to update / customize quickly
-
-1. Replace all your-... placeholders (portfolio, social links, email) with your actual links.  
-2. Replace project repo URLs with real repository links.  
-3. If you want the header image in your profile, create an assets folder in the repo and upload header.png, then reference it (see note below).  
-4. For the pacman / custom contribution art, generate the images in output/ within your profile repo (tools such as gh-contrib-graph or GitHub Actions can produce these). If you don't have them, remove that <picture> block.  
-5. Commit & push to the pranaydhore repo (root README.md). GitHub will render it on your profile automatically.
+### Tips & polish ideas
+- Make a small, looping 3–6 second GIF (fewer frames → smaller file). GIFs look best when subtle (gentle gradient + animated shape).  
+- If you prefer smaller size + better quality consider *APNG* (some browsers) or host a short MP4 on an external site and embed a GIF preview in the README.  
+- Keep social links and project links up-to-date; GitHub renders badges inline so they’re great visual cues.
 
 ---
 
-### Optional: Add a header banner (local image)
-If you'd like a header image (like the one you used earlier), upload assets/header.png to your repo and add at top of README:
-
-```md
+If you want, I can:
+- generate a *ready-to-upload header GIF* using the PNG you uploaded earlier (I can’t create files outside this reply, but I can provide exact ffmpeg/ImageMagick commands tailored to your source file), or  
+- produce a final README with your real portfolio, LinkedIn, and project repo links filled in (paste them here) — I’ll return the completed README markdown ready to paste.
