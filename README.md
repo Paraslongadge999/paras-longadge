@@ -1,4 +1,25 @@
 <!-- Animated header: place a file at assets/header.gif (recommended) -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF8C00&height=200&section=header&text=Welcome%20Data%20Explorer!&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF"/>
+</div>
+
+<!-- Main animated typing line (Black theme + Orange highlight + White glow) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Prompt+Engineer;Python+%7C+SQL+%7C+Excel+Expert;Transforming+Data+Into+Business+Insights;Delivering+Clear%2C+Impactful+Analytics;Passionate+About+Visualization+%26+AI" />
+</div>
+
+<!-- Reflected line (soft white–orange hue + blur for reflection effect) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=400&size=22&pause=1500&color=FFE6C9&center=true&vCenter=true&width=800&duration=3500&lines=Data+Analytics+Enthusiast;Enhancing+Dashboards+with+Power+BI;Creating+Meaningful+Business+Insights;Committed+to+Continuous+Growth" style="opacity:0.50;filter:blur(0.6px);" />
+</div>
+
+
+
+
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7400FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
 </div>
