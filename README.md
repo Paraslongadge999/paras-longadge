@@ -1,5 +1,11 @@
 🧑‍💻 Pranay Dhore — Data Analyst | Data Scientist | AI & BI Developer
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF8C00&height=200&section=header&text=Welcome%20Data%20Explorer!&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&pause=1000&color=F57F17&width=800&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Prompt+Engineer;Python+%7C+SQL+%7C+Excel+Specialist;Transforming+Data+Into+Business+Insights;Passionate+About+Analytics%2C+Visualization+%26+AI"/> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7400FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&width=600&lines=Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;Power+BI+%7C+Python+%7C+SQL+%7C+Tableau;Transforming+Data+Into+Insights;Always+Learning+%26+Exploring+New+Tech!"/>
+</div>
 📌 About Me
 
 I am a Computer Science Engineer specialized in Data Science, driven by the mission to turn complex datasets into meaningful insights and business outcomes. With hands-on experience in AI, Data Analytics, Python, C++, and Power BI, I enjoy solving real-world problems using data, building dashboards, and developing intelligent solutions.
