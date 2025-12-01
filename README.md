@@ -14,6 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&pause=1500&color=000000&center=true&vCenter=true&width=800&duration=3500&lines=Data+Analytics+Enthusiast;Enhancing+Dashboards+with+Power+BI;Creating+Meaningful+Business+Insights;Committed+to+Continuous+Growth" style="opacity:0.55;filter:blur(0.6px);" />
 </div>
 
+
 <h1 align="center">Hey 👋 What's Up? I'm <strong>Pranay Dhore</strong></h1>
 <div align="center"><em>Data Scientist • Web Developer • Cloud & DevOps Enthusiast</em></div>
 
