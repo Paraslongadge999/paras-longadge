@@ -132,4 +132,3 @@
 If you'd like a header image (like the one you used earlier), upload assets/header.png to your repo and add at top of README:
 
 ```md
-<p align="center"></p>
