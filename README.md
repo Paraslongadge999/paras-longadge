@@ -1,17 +1,31 @@
-# Writing the README.md file for user 'pranaydhore'
-readme_content = r"""
-<!-- Header Image -->
-<p align="center">
-  <img src="assets/header.png" alt="Welcome to My GitHub!" width="100%"/>
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-# 👋 Hi — I'm *Pranay Dhore* (pranaydhore)
+###
 
-*Data Scientist | Web Developer | Tech Enthusiast*
+<div align="center">
+  <!-- Tech icons (adjust or remove icons you don't use) -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,java,bootstrap,tailwind,mongodb,express" height="60" alt="tech stack"  />
+</div>
 
-Welcome to my GitHub profile! This README highlights who I am, what I build, my tech stack, and how to connect. If you like what you see, feel free to ⭐ star my repositories.
+###
 
----
+<div align="center">
+  <!-- Social / contact badges (replace URLs with yours) -->
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=BB001B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
+  </a>
+</div>
+
+###
 
 ## 📌 About Me
 - 🎓 *Computer Science Engineering* (Data Science Specialization)  
@@ -20,104 +34,102 @@ Welcome to my GitHub profile! This README highlights who I am, what I build, my 
 - 🎯 Preparing for *RapidMiner Certification* (Data Engineering – Master)  
 - 💼 Completed internships in *AI, **Python, **C++, and **Power BI*  
 - 🏏 Cricket enthusiast & competitive player  
-- 🌍 *Portfolio Website:* [Visit Here](https://your-portfolio.example.com)  
+- 🌍 *Portfolio:* https://your-portfolio.example.com  
 - 🔥 Exploring *Cloud Computing & DevOps*
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-### 💻 Languages & Frameworks
-C · C++ · Python · JavaScript · React · Java · Bootstrap · Tailwind CSS · MongoDB · Express.js
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,java,bootstrap,tailwind,mongodb,express,powerbi,pandas,numpy,matplotlib,seaborn,plotly,tableau,scikitlearn,docker,aws,git" height="40" alt="stack icons" />
+</div>
 
-### 📊 Data Science & Analytics
-Power BI · pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · scikit-learn
-
-### ⚙ Tools & Platforms
-GitHub · Docker · AWS · VS Code · Jupyter · PyCharm · IntelliJ IDEA
-
----
-
-## 📈 GitHub Stats & Trophies
-
-<!-- GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranaydhore&show_icons=true&theme=dark" alt="Pranay's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaydhore&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranaydhore&theme=darkhub&row=1&column=4" alt="Trophies"/>
-</p>
+*Languages & Frameworks:* C, C++, Python, JavaScript, React, Java, Bootstrap, Tailwind CSS, Express.js, MongoDB  
+*Data & ML:* Power BI, pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, scikit-learn  
+*Tools & Platforms:* GitHub, Docker, AWS, VS Code, Jupyter, PyCharm, IntelliJ IDEA
 
 ---
 
 ## 🚀 Projects & Contributions
 
-Here are some highlighted projects — check the repositories for full details, code, and demos.
+- 🔹 *Potato Leaf Disease Detection* — Image-classification pipeline using CNNs (OpenCV / TensorFlow).  
+  Repo: https://github.com/pranaydhore/potato-leaf-disease (replace with your repo link)
+- 🔹 *Megastore Data Analysis (Power BI)* — Interactive dashboards for sales & inventory insights.  
+  Repo: https://github.com/pranaydhore/megastore-powerbi (replace)
+- 🔹 *Retail Sales Analysis* — Forecasting & customer segmentation using time-series and clustering.  
+  Repo: https://github.com/pranaydhore/retail-sales-analysis (replace)
 
-- 🔹 *Potato Leaf Disease Detection* – Computer vision project that classifies leaf images and suggests treatments. (Python, OpenCV, TensorFlow / PyTorch)  
-- 🔹 *Megastore Data Analysis (Power BI)* – End-to-end sales & inventory analytics with interactive dashboards and insights.  
-- 🔹 *Retail Sales Analysis* – Time-series forecasting and customer-segmentation for retail datasets.
-
-> Want these listed as repository links? Add your repo links and brief one-line descriptions and I'll fold them in.
+(Add more projects or change descriptions/links as needed.)
 
 ---
 
-## 🌐 Connect with Me
+## 📈 GitHub Stats & Contribution Trophies
 
-- 🔗 *Portfolio:* https://your-portfolio.example.com  
-- 💼 *LinkedIn:* https://linkedin.com/in/your-profile  
-- 🐦 *Twitter:* https://twitter.com/yourhandle  
-- ✍ *Medium:* https://medium.com/@yourhandle  
-- 📧 *Email:* your-email@example.com  
-- 📂 *GitHub:* https://github.com/pranaydhore
+<div align="center">
+  <!-- GitHub dynamic stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pranaydhore&show_icons=true&theme=dark&count_private=true" alt="github stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaydhore&layout=compact&theme=dark" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranaydhore&theme=darkhub&row=1&column=4" alt="trophies" />
+</div>
+
+###
+
+<div align="center">
+  <!-- Contribution streak / activity — update user= to your username -->
+  <img src="https://streak-stats.demolab.com?user=pranaydhore&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranaydhore/pranaydhore/output/pacman-contribution-graph.svg">
+</picture>
+
+> If you don't have a pacman contribution graph generated, you can remove the <picture> block or replace with the default GitHub contribution grid (it renders automatically on your profile page).
 
 ---
 
 ## ✨ Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranaydhore&color=brightgreen" alt="Visitor Count" />
-</p>
-
-If you'd like an animated visitor counter (GIF-like), it's common to include a styled badge or a small GIF hosted in the repo. Below is a nice-looking animated example (uses a badge service):
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pranaydhore.pranaydhore)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranaydhore&color=brightgreen" alt="visitor-count" />
+  &nbsp;
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pranaydhore.pranaydhore)
+</div>
 
 ---
 
-## 🛠 How to Use This README
+## 📬 Connect with Me
 
-1. Replace placeholder links (portfolio, LinkedIn, email, social links) with your real URLs.  
-2. Add your repository links to the *Projects* section.  
-3. If you want the header image shown above to appear in your GitHub profile, create a folder named assets in your profile repository and upload the file header.png (the file I included when generating this README). Then the image will render properly.  
-4. Customize any sections (Skills, Certifications, Achievements) you want to highlight.
-
----
-
-## 📬 Lets Collaborate
-I'm open to interesting open-source collaborations, internships, and project work. If you have something in mind — reach out!
+<div align="center">
+  <a href="https://github.com/pranaydhore" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
+  <a href="https://your-portfolio.example.com" target="_blank">Portfolio</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</div>
 
 ---
 
-> ⭐ If you like my work, please star a repo — it helps a lot.  
-> Last updated: 2025-12-01
+## 🛠 How to update / customize quickly
 
-"""
+1. Replace all your-... placeholders (portfolio, social links, email) with your actual links.  
+2. Replace project repo URLs with real repository links.  
+3. If you want the header image in your profile, create an assets folder in the repo and upload header.png, then reference it (see note below).  
+4. For the pacman / custom contribution art, generate the images in output/ within your profile repo (tools such as gh-contrib-graph or GitHub Actions can produce these). If you don't have them, remove that <picture> block.  
+5. Commit & push to the pranaydhore repo (root README.md). GitHub will render it on your profile automatically.
 
-# Save file
-path = "/mnt/data/pranaydhore_README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
+---
 
-# Also save the header image into an assets folder next to the README so the image reference works.
-import os, shutil
-assets_dir = "/mnt/data/assets"
-os.makedirs(assets_dir, exist_ok=True)
-src_image = "/mnt/data/80b92ae9-32be-4c0c-a535-6a013ca8b421.png"
-dst_image = os.path.join(assets_dir, "header.png")
-shutil.copy(src_image, dst_image)
+### Optional: Add a header banner (local image)
+If you'd like a header image (like the one you used earlier), upload assets/header.png to your repo and add at top of README:
 
-path, dst_image
+```md
+<p align="center"></p>
